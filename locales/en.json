@@ -1,1 +1,6 @@
-
+{
+  "greeting": "Welcome back",
+  "logout_confirm": "Are you sure you want to log out?",
+  "save_button": "Save changes",
+  "empty_state": "Nothing here yet"
+}
