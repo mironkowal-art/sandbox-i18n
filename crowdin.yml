@@ -3,5 +3,7 @@ api_token_env: CROWDIN_PERSONAL_TOKEN
 base_path: .
 preserve_hierarchy: true
 files:
-  - source: /locales/en.json
-    translation: /locales/%two_letters_code%.json
+  - source: /locales/*_en.json
+    translation: /locales/%file_name%_%two_letters_code%.json
+    translation_replace:
+      "_en": ""
