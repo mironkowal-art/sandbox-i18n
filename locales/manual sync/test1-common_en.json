@@ -1,5 +1,5 @@
 {
   "checkout_title": "Checkout",
-  "checkout_confirm": "Confirm order"
-  "comment_count": "{count, plural, one {# comment} other {# comments}}",
+  "checkout_confirm": "Confirm order",
+  "comment_count": "{count, plural, one {# comment} other {# comments}}"
 }
