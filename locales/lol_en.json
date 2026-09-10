@@ -4,5 +4,6 @@
   "save_button": "Save changes",
   "empty_state": "Nothing here yet",
   "comment_count": "{count, plural, one {# comment} other {# comments}}",
+  "comment": "Please insert Username {username}",
   "no_state": "Nothing here yet"
 }
