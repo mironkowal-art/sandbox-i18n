@@ -1,5 +1,5 @@
 {
   "cart_title": "Your cart",
-  "cart_empty": "Your cart is empty"
-  "comment_count": "{count, plural, one {# comment} other {# comments}}",
+  "cart_empty": "Your cart is empty",
+  "comment_count": "{count, plural, one {# comment} other {# comments}}"
 }
