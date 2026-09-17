@@ -1,9 +1,20 @@
+"project_id": "8"
+"api_token_env": "CROWDIN_PERSONAL_TOKEN"
+"base_path": "."
+"base_url": "https://mktraining.api.crowdin.com"
+"preserve_hierarchy": true
+
 "files": [
   {
-    "source": "/locales/**/*_en.json",
-    "translation": "/locales/**/%file_name%!_%two_letters_code%.json",
-    "translation_replace": {
-      "_en!": ""
-    }
+    "source": "/locales/en.po",
+    "translation": "/locales/%two_letters_code%.po"
+  },
+  {
+    "source": "/locales/en.strings",
+    "translation": "/locales/%two_letters_code%.strings"
+  },
+  {
+    "source": "/locales/large_en.json",
+    "translation": "/locales/large_%two_letters_code%.json"
   }
 ]
