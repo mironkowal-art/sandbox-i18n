@@ -838,7 +838,7 @@ msgid "Link accounts"
 msgstr ""
 
 #. i18n: keyword: LinkAccountConfirmation
-msgid "Please type in "link accounts" but in UPPERCASE letters, to confirm:"
+msgid "Please type in \"link accounts\" but in UPPERCASE letters, to confirm:"
 msgstr ""
 
 #. i18n: keyword: LinkUnlinkInProgressTitle
@@ -1961,7 +1961,7 @@ msgid "<b>\"{{ .Data.Code }}\"</b> is a valid code and has not been redeemed yet
 msgstr ""
 
 #. i18n: keyword: ViewTransactionsPage
-msgid "You can view all of your recent transactions <a href="/account/transactions">here</a>."
+msgid "You can view all of your recent transactions <a href=\"/account/transactions\">here</a>."
 msgstr ""
 
 #. i18n: keyword: LP_STEAM_Username
@@ -2183,10 +2183,6 @@ msgstr ""
 
 #. i18n: keyword: PrivatePolicyAgreement
 msgid "By signing up, you are agreeing to our <a href='https://www.kleientertainment.com/privacy-policy' target='_blank' rel='noopener noreferrer'>Privacy Policy</a>"
-msgstr ""
-
-#. i18n: keyword: SignUpFollow
-msgid "Thanks for signing up! Feel free to follow us on <a href="https://www.facebook.com/kleientertainment/" target="_blank">Facebook</a>, <a href="https://twitter.com/klei" target="_blank">Twitter</a> and <a href="https://www.instagram.com/kleientertainment/" target="_blank">Instagram</a>."
 msgstr ""
 
 #. i18n: keyword: KleiEntertainment
@@ -3061,10 +3057,6 @@ msgstr ""
 
 #. i18n: keyword: FanartEventStatusKleiMessage
 msgid "Message from Klei:"
-msgstr ""
-
-#. i18n: keyword: FanartEventCheckStatus
-msgid "Already made a submission? Check the status of your submission <a href="https://accounts.klei.com/account/fanartevent/status">here</a>"
 msgstr ""
 
 #. i18n: keyword: FanartEventRulesLabel
