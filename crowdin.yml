@@ -14,7 +14,9 @@
     "translation": "/locales/%two_letters_code%.strings"
   },
   {
-    "source": "/locales/large_en.json",
-    "translation": "/locales/large_%two_letters_code%.json"
-  }
+    "source": "/locales/**/*_en.json",
+    "translation": "/locales/**/%file_name%!_%two_letters_code%.json",
+    "translation_replace": {
+      "_en!": ""
+    }
 ]
