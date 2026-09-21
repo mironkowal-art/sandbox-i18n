@@ -4,5 +4,6 @@
   "save_button": "Zapisz zmiany",
   "empty_state": "Jeszcze nic tu nie ma",
   "comment_count": "{count, plural, one {# komentarz} few {# komentarzy} many {# komentarzy} other {# komentarzy}}",
+  "comment": "Please insert Username {username}",
   "no_state": "Jeszcze nic tu nie ma"
 }

@@ -1,4 +1,5 @@
 {
   "checkout_title": "Zamówienie",
-  "checkout_confirm": "Potwierdź zamówienie"
+  "checkout_confirm": "Potwierdź zamówienie",
+  "comment_count": "{count, plural, one {# comment} other {# comments}}"
 }
