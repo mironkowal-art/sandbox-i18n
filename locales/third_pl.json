@@ -75,7 +75,7 @@
 	"plurals to eternity": "[0,] this will last forever|but only gt 0",
 	"plurals from eternity": "[,0] this was born long before|but only lt 0",
 	"Hello %s": "Hello %s",
-	"Hello {{name}}": "Hello {{name}}",
+	"Hello {{name}}": "Bry {{nAme}}",
 	"Hello {{name}}, how was your %s?": "Hello {{name}}, how was your %s?",
 	"format": {
 		"date": "MM/DD/YYYY",
@@ -86,7 +86,7 @@
 		"informal": "Hi",
 		"placeholder": {
 			"formal": "Hello %s",
-			"informal": "Hi %s",
+			"informal": "Cze %S",
 			"loud": "greeting.placeholder.loud"
 		},
 		"plurals": {
